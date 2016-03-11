@@ -1,6 +1,3 @@
-##Dietetic Tiramisu Cake Recipe
-
-
 ##מתכון להכנת עוגת טרמיסו דיאטתית
 
 מקור המתכון מהאתר של קארין גורן: [Recipe](http://www.carine.co.il/page_3254?bsp=14694)
